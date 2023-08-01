@@ -18,3 +18,20 @@ Today on Wednesday July 26th, 2023 I am practicing flexbox.
       
       Went over the difference between how they impact the flex container's "justify-content"  and "align-items" properties
 */
+
+/* 
+  Today on Tuesday August 1st, 2023 I practiced more flexbox.
+    Today I started and completed Chapter 11 "Shortcut to the Kill"
+      Which focused on short hand expressions for commonly used flex properties  
+        it taught us the way to write the short hand expression for flex-grow, flex-shrink, and flex-basis in that order using "flex" 
+            example: flex: 1 0 200px;
+            it also uses the "auto" keyword to set flex-basis to auto, flex-grow to 1, and flex-shrink to 1
+            example: flex: auto;
+            it also uses the "none" keyword to set flex-grow to 0, flex-shrink to 0, and flex-basis to auto
+            example: flex: none;
+        it also taught us the short hand expression for flex-wrap and flex-direction in that order using "flex-flow"
+            example: flex-flow: row wrap;
+
+
+
+*/

@@ -74,4 +74,5 @@ function generateChatRoomNames(users) {
   
   
  
-
+//nothing to update just trying but brain is not working
+// Path: CodeWars_Exercises/generateChatRoomNames.js

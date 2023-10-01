@@ -9,5 +9,8 @@ function padIt(str,n){
       }
       i++;
     }
-    
+    return str
   }
+
+  console.log(padIt("a",1),"*a");
+  console.log(padIt("a",2),"*a*");

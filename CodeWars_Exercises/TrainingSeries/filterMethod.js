@@ -42,4 +42,4 @@ function countGrade(scores) {
         }
     });
     return obj;
-}
+} 
